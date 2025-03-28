@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "API REST para gerenciamento de usuários, projetos e tarefas.",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mvc": "file:"
   }
 }
