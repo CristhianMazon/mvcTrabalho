@@ -17,11 +17,15 @@ IDE recomendada: Eclipse / IntelliJ
 kotlin
 Copiar
 Editar
+
+```text
 📦 mvcTrabalho
 ├── 📁 model     → Contém as classes de domínio (dados, entidades, lógica de negócios)
 ├── 📁 view      → Contém a interface gráfica ou visualização
 ├── 📁 controller → Contém os controladores responsáveis pela lógica entre model e view
 └── 📄 Main.java → Classe principal para executar o programa
+```
+
 🚀 Como Executar
 Clone o repositório:
 
