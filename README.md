@@ -44,5 +44,5 @@ Comentários no código explicam partes importantes da lógica.
 
 🧑‍💻 Autor
 Cristhian Silveira Mazon
-📧 cristhian.mazon@gmail.com
+📧 cristhian.s.mazon@gmail.com
 
