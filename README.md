@@ -14,9 +14,6 @@ Padrão MVC
 IDE recomendada: Eclipse / IntelliJ
 
 📁 Estrutura de Diretórios
-kotlin
-Copiar
-Editar
 
 ```text
 📦 mvcTrabalho
@@ -25,22 +22,6 @@ Editar
 ├── 📁 controller → Contém os controladores responsáveis pela lógica entre model e view
 └── 📄 Main.java → Classe principal para executar o programa
 ```
-
-🚀 Como Executar
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/CristhianMazon/mvcTrabalho.git
-Abra o projeto em uma IDE compatível (Eclipse, IntelliJ, etc.)
-
-Execute a classe Main.java
-
-📚 Observações
-O projeto está em fase de desenvolvimento/teste (ou informe se está finalizado).
-
-Comentários no código explicam partes importantes da lógica.
 
 🧑‍💻 Autor
 Cristhian Silveira Mazon
